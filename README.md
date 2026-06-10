@@ -1,3 +1,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samikshasainii&show_icons=true&theme=neon)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshasainii&layout=compact&theme=neon)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samikshasainii&layout=compact&theme=one_dark_pro)
 ![GitHub Streak](https://streak-stats.demolab.com?user=samikshasainii&theme=date_night)
